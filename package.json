@@ -14,8 +14,11 @@
   "contributes": {
     "commands": [
       {
-        "command": "seepdeek.helloWorld",
-        "title": "Hello World"
+        "command": "seepdeek.openChatPanel",
+        "title": "chat"
+      },{
+        "command": "seepdeek.processPrompt",
+        "title": "Seepdeek: Process Prompt"
       }
     ]
   },
